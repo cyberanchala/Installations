@@ -37,11 +37,11 @@ sudo service influxdb status
 
 You should see an "active (running)" status.
 
-<img src="">
+<img src="Images/influx_status_active.png">
 
 Access the InfluxDB UI at http://localhost:8086 to complete the setup.
 
-If the InfluxDB service is running but you cannot access the UI at http://localhost:8086, there are a few things you can check and try to resolve the issue:
+Note: If the InfluxDB service is running but you cannot access the UI at http://localhost:8086, there are a few things you can check and try to resolve the issue:
 
 ## Step 5: Check Open Ports
 
