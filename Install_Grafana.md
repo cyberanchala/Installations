@@ -61,7 +61,7 @@ sudo systemctl status grafana-server
 
 You should see an "active (running)" status.
 
-<img src= "https://github.com/cyberanchala/Installations/blob/main/grafana-active-status.png">
+<img src= "Images/grafana-active-status.png">
 
 ## 7. Access Grafana
 
